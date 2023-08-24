@@ -14,5 +14,5 @@ jobs:
       - uses: bluefireteam/flutter-gh-pages@v7
         with:
           targetBranch: production
-          baseHref: /hello-world/
+          baseHref: /
           customArgs: --web-renderer canvaskit
