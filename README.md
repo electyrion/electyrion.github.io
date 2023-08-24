@@ -2,7 +2,7 @@
 
 <!-- ![Vicky Portfolio Banner](images/vickyIndex.jpg) -->
 
-Vicky Maulana - Flutter Developer, Web Enthusiast, and Tech Geek. Engineer with a passion for creating clean and user-friendly UI/UX using Flutter.
+Vicky Maulana - Flutter Developer, Web Enthusiast, and Tech Geek.
 Explore my Portfolio [Here](https://electyrion.github.io).
 
 ![Website](https://img.shields.io/website?down_message=offline&up_message=online&url=https%3A%2F%2Felectyrion.github.io)
