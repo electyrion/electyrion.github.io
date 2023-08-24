@@ -10,7 +10,7 @@ Explore my Portfolio [Here](https://electyrion.github.io).
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/electyrion/hello-world)
 ![GitHub issues](https://img.shields.io/github/issues/electyrion/hello-world)
 ![GitHub](https://img.shields.io/github/license/electyrion/hello-world)
-![GitHub Repo stars](https://img.shields.io/github/stars/electyrion/electyrion.github.io?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/electyrion/hello-world?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/electyrion?style=social)
 [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Felectyrion%2Felectyrion.github.io&label=Visitors&countColor=%23263759&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Felectyrion%2Felectyrion.github.io)
 
