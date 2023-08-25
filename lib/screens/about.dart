@@ -66,7 +66,7 @@ class _AboutState extends State<About> {
                   height: 30,
                 ),
                 const Texter(
-                  "As an enthusiastic and penultimate undergraduate Computer Science student, I am constantly driven by my insatiable curiosity for all things tech. My fascination with these fields has driven me to explore their depths, as I work towards becoming proficient in harnessing their power to shape the future. My experience extends to Flutter development, web development, and mobile app development, where I've had the pleasure of crafting digital experiences that merge creativity with functionality.\n\n"
+                  "As an enthusiastic and penultimate undergraduate Computer Science student, I am constantly driven by my insatiable curiosity for all things tech. My fascination with these fields has driven me to explore their depths, as I work towards becoming proficient in harnessing their power to shape the future. My experience extends to web development, and mobile app development, where I've had the pleasure of crafting digital experiences that merge creativity with functionality.\n\n"
                   "While I'm sharpening my skills, I'm also gaining practical insights as a QA Engineer at a non-profit organization, where I ensure that software meets the highest standards of quality and performance.\n\n"
                   "Outside of my academic and professional pursuits, you can find me experimenting with new programming languages, attending hackathons, and soaking up knowledge from every avenue. I believe that in the ever-evolving tech landscape, the hunger for knowledge is what fuels true innovation.",
                   style: TextStyle(
