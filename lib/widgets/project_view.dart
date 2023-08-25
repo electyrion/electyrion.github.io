@@ -291,7 +291,7 @@ class ProjectView extends StatelessWidget {
                           controller: scrollController,
                           physics: const BouncingScrollPhysics(),
                           child: Texter(
-                            "\n${desc}\n",
+                            "\n$desc\n",
                             style: const TextStyle(
                                 fontWeight: FontWeight.w300,
                                 fontSize: 15.5,
