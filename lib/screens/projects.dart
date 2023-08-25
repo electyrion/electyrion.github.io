@@ -42,7 +42,7 @@ class _ProjectsState extends State<Projects> {
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
           Texter(
-            "Open Source Projects",
+            "Latest Projects",
             textAlign: TextAlign.center,
             style: TextStyle(
                 fontWeight: FontWeight.w600,
