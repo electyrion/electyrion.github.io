@@ -88,18 +88,22 @@ class _ProjectsState extends State<Projects> {
                   link: "https://github.com/SafetyWalk/vermithor",
                 )
               ),
-              // ProjectItem(
-              //   name: "FarmaCare",
-              //   image: "images/safewalk.png",
-              //   projectDetails: ProjectDetails(
-              //     name: "SafeWalk",
-              //     image: "images/safewalk.png",
-              //     altText: "Home screen of SafeWalk",
-              //     desc: "\u{25ca} A mobile application that helps users to find the safest route to their destination.\n",
-              //     github: "https://github.com/SafetyWalk/vermithor",
-              //     link: "https://github.com/SafetyWalk/vermithor",
-              //   )
-              // )
+              ProjectItem(
+                name: "Pet Daycare",
+                image: "images/petdaycare.png",
+                projectDetails: ProjectDetails(
+                  name: "Pet Daycare",
+                  image: "images/petdaycareWeb.png",
+                  altText: "Home screen of petdaycare",
+                  desc: "\u{25ca} Pet Daycare is a website application for online pet care reservations.\n"
+                      "\u{25ca} There are USER and ADMIN roles which will have their own dashboard.\n"
+                      "\u{25ca} Users can make payments using PetWallet's balance and coupon methods.\n"
+                      "\u{25ca} Users can also top up their PetWallet's balance. Payments and top up balances will both be verified by the admin.\n"
+                      "\u{25ca} Users can apply to pick up their pet early or late.",
+                  github: "https://github.com/orgs/Pet-Daycare/repositories",
+                  link: "https://github.com/orgs/Pet-Daycare/repositories",
+                )
+              )
             ],
           )
         ],
